@@ -67,6 +67,8 @@ The custom parsing library must be used for implementing parsers for the specifi
 
 ## Documentation
 
+### Big thank for people working with me on this
+
 - [Documentation](https://madsdocs.gitbook.io/documentation-de-pandoc)
 
 

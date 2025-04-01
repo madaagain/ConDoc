@@ -1,10 +1,3 @@
-{-
--- EPITECH PROJECT, 2024
--- B-FUN-400-PAR-4-1-mypandoc-guillaume.deplaine
--- File description:
--- Error handling
--}
-
 module Error
     ( errorHandling, Conf(..), Format, markDown, json, xml
     ) where

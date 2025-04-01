@@ -1,10 +1,3 @@
-{-
--- EPITECH PROJECT, 2024
--- B-FUN-400-PAR-4-1-mypandoc-guillaume.deplaine
--- File description:
--- Json
--}
-
 {-# OPTIONS_GHC -Wno-unrecognised-pragmas #-}
 {-# HLINT ignore "Use lambda-case" #-}
 module Json(fromJson, toJson) where

@@ -1,10 +1,3 @@
-{-
--- EPITECH PROJECT, 2024
--- bootstrap pandoc
--- File description:
--- Parser
--}
-
 {-# HLINT ignore "Use newtype instead of data" #-}
 {-# OPTIONS_GHC -Wno-unrecognised-pragmas #-}
 {-# HLINT ignore "Use lambda-case" #-}

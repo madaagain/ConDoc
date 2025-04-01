@@ -1,10 +1,3 @@
-##
-## EPITECH PROJECT, 2024
-## B-FUN-400-PAR-4-1-wolfram-alexis.mer
-## File description:
-## Makefile
-##
-
 BINARY_PATH := $(shell stack path --local-install-root)
 
 NAME = mypandoc

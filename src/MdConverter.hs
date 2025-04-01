@@ -1,10 +1,3 @@
-{-
--- EPITECH PROJECT, 2024
--- B-FUN-400-PAR-4-1-mypandoc-guillaume.deplaine
--- File description:
--- md_converter
--}
-
 {-# OPTIONS_GHC -Wno-unrecognised-pragmas #-}
 {-# HLINT ignore "Use lambda-case" #-}
 {-# HLINT ignore "Use string literal" #-}
